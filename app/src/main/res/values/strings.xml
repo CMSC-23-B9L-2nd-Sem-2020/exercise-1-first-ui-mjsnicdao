@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NicdaoExer1</string>
+    <string name="button_label_Toast">FOR THREE</string>
+    <string name="button_label_count">KOBE 24</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Mamba Out!</string>
 </resources>
